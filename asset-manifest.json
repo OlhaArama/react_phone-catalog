@@ -1,23 +1,36 @@
 {
   "files": {
-    "main.css": "./static/css/main.21aab539.chunk.css",
-    "main.js": "./static/js/main.261a9c5b.chunk.js",
-    "main.js.map": "./static/js/main.261a9c5b.chunk.js.map",
+    "main.css": "./static/css/main.e3dd3304.chunk.css",
+    "main.js": "./static/js/main.5dfe4265.chunk.js",
+    "main.js.map": "./static/js/main.5dfe4265.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.57982082.chunk.js": "./static/js/2.57982082.chunk.js",
     "static/js/2.57982082.chunk.js.map": "./static/js/2.57982082.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.21aab539.chunk.css.map": "./static/css/main.21aab539.chunk.css.map",
+    "static/css/main.e3dd3304.chunk.css.map": "./static/css/main.e3dd3304.chunk.css.map",
     "static/js/2.57982082.chunk.js.LICENSE.txt": "./static/js/2.57982082.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/Dropdowns.scss": "./static/media/arrow-down.6559e133.svg",
-    "static/media/page.scss": "./static/media/arrow-left.081ebe62.svg"
+    "static/media/page.scss": "./static/media/arrow-left.081ebe62.svg",
+    "static/media/arrow-right.12643ae4.svg": "./static/media/arrow-right.12643ae4.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/category-accessories.e47d6d6d.png": "./static/media/category-accessories.e47d6d6d.png",
+    "static/media/category-phones.af93d992.png": "./static/media/category-phones.af93d992.png",
+    "static/media/category-tablets.51782e18.png": "./static/media/category-tablets.51782e18.png",
+    "static/media/cross.d99189a5.svg": "./static/media/cross.d99189a5.svg",
+    "static/media/favourites-red.e06f6852.svg": "./static/media/favourites-red.e06f6852.svg",
+    "static/media/favourites.18a4d0a4.svg": "./static/media/favourites.18a4d0a4.svg",
+    "static/media/home.e110292a.svg": "./static/media/home.e110292a.svg",
+    "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg",
+    "static/media/shopping-bag.9d5d0d40.svg": "./static/media/shopping-bag.9d5d0d40.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.57982082.chunk.js",
-    "static/css/main.21aab539.chunk.css",
-    "static/js/main.261a9c5b.chunk.js"
+    "static/css/main.e3dd3304.chunk.css",
+    "static/js/main.5dfe4265.chunk.js"
   ]
 }
